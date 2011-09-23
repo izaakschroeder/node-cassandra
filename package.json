@@ -1,0 +1,11 @@
+{
+	"name": "cassandra",
+	"version": "0.0.1",
+	"description": "A simple wrapper around the Cassandra thrift library.",
+	"author": "Izaak Schroeder",
+	"engine": "node >= 0.4.10",
+	"main": "cassandra.js",
+	"dependencies": {
+		
+	}
+}

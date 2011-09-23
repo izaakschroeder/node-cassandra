@@ -1,0 +1,3 @@
+= Cassandra =
+
+This package contains Cassandra bindings for node.js.
